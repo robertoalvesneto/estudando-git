@@ -1,5 +1,5 @@
-def sum(value1:int, value2:int) -> int:
-    return value1 + value2
+def sum(a, b):
+    return int
 
 if __name__ == "__main__":
     print(sum(1, 2))
