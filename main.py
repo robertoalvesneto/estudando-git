@@ -1,5 +1,7 @@
 def sum(a, b):
-    return int
+    # :description:
+    # Soma dois valores
+    return a+b
 
 if __name__ == "__main__":
     print(sum(1, 2))
