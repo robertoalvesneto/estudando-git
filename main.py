@@ -1,4 +1,6 @@
 def sum(a, b):
+    # :description:
+    # Soma dois valores
     return a+b
 
 def div(a, b):
